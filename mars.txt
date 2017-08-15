@@ -3,4 +3,4 @@ The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 Mummy is red/green color-blind need find new base
 Already overslept, low oxygen bases won't help on that
-change from person 2
+we removed the conflict
